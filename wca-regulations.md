@@ -129,7 +129,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 3h2a) 有透明的零件且可以得知更多方塊狀態的方塊。例外：半透明的貼紙或是Logo。(參見[規則 3l](regulations:regulation:3l))
     - 3h3) 不能以方塊改造失常為由，要求增加額外還原的機會。
     - 3h4) 魔錶Clock允許使用自製圖案的紙張（與原本紙張相同形狀與尺寸），由WCA代表決定。該圖案紙張必須明確標註與原本圖案相符的12點鐘位置。
-- 3j) 方塊必須要乾淨，且禁止有任何記號、凸出的部位、損壞、或是任何可以讓各零件更容易區分的相異處。 例外：一個logo。(參見[規則 3l](regulations:regulation:3l))
+- 3j) 方塊必須要乾淨，且禁止有任何記號、凸出的部位、損壞、或是任何可以讓各零件更容易區分的相異處。例外：一個logo。(參見[規則 3l](regulations:regulation:3l))
     - 3j1) 方塊上合理的使用磨損是允許的，由WCA代表決定。
     - 3j2) 定義：如果有兩個零件的大小和形狀一樣，或是大小一樣且互為鏡像，則稱這兩個零件是相似的。
     - 3j3) 盲解項目不允許使用能經由觸摸就可以辨認方向的凹凸或紋理。
@@ -169,7 +169,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 4d5) 斜轉方塊Skewb轉亂時白色面（如果不可行，就選擇最亮的一面）朝上，綠面（如果不可行，就選擇鄰面最暗的一面）朝左前。
 - 4f) 比賽用轉亂步驟必須要使用目前最新的官方轉亂程式來產生（可在[WCA網站](https://www.worldcubeassociation.org/regulations/scrambles/)取得）。
 - 4g) 轉亂完一顆方塊後，轉亂員必須確認方塊有被正確轉亂。如果方塊的轉亂狀態不正確，方塊必須被修正（例如：先還原方塊，再轉亂一次）。
-    - 4g1) 例外：6x6x6方塊、 7x7x7方塊和12面體Megaminx，修正轉亂狀態是非必要的，由WCA代表決定。
+    - 4g1) 例外：6x6x6方塊、7x7x7方塊和12面體Megaminx，修正轉亂狀態是非必要的，由WCA代表決定。
 
 
 ## <article-5><puzzle-defects><puzzledefects> 第5章：方塊故障
@@ -188,7 +188,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
         - 5b5b) 只有一個單色塊受影響，則判定為還原完成
         - 5b5c) 兩個以上單色塊受影響，則判定該次還原未完成(DNF)。
         - 5b5d) 一個以上多色塊受影響，則判定該次還原未完成(DNF)。
-        - 5b5e) 規則[5b5c](regulations:regulation:5b5c)與[5b5d](regulations:regulation:5b5d) 比 [5b5a](regulations:regulation:5b5a)與[5b5b](regulations:regulation:5b5b)還要優先判定。
+        - 5b5e) 規則[5b5c](regulations:regulation:5b5c)與[5b5d](regulations:regulation:5b5d)比[5b5a](regulations:regulation:5b5a)與[5b5b](regulations:regulation:5b5b)還要優先判定。
 
 
 ## <article-7><environment><environment> 第7章：比賽場地
@@ -280,7 +280,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 10f1) 立方體方塊：最多45度。
     - 10f2) 十二面體Megaminx：最多36度。
     - 10f3) 金字塔Pyraminx和斜轉方塊Skewb：最多60度。
-    - 10f4) Square-1: 最大45度(U/D)或90度(/)。
+    - 10f4) Square-1:最大45度(U/D)或90度(/)。
 - 10h) 其他未提及的方塊的完成定義，以一般大眾認同的為完成狀態，並運用本規則判定。
     - 10h1) 魔錶Clock的還原狀態是指所有指針（18個）都朝向12點鐘。
 
@@ -517,13 +517,13 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - H1d) 方塊的加時處罰是累積制的。
 
 
-## <article-Y><temporary-regulations><temporaryregulations> 附則 Y: 臨時規則
+## <article-Y><temporary-regulations><temporaryregulations> 附則 Y:臨時規則
 
 - Y1) 額外且取代其他規則的部分描述在以下內容。這些規則是用來補充[比賽安全政策](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)。
 - Y2) 定義：
     - Y2a) 參加者：所有參加WCA比賽的人員，包含參賽者，工作人員，以及陪同者。
     - Y2b) 固定座位：在同一輪中，參賽者必須在同一個位置上，完成該輪所有還原的一種比賽方式。
-- Y3) 除了[規則 2a](regulations:regulation:2a)所要求以外, 如果WCA代表覺得有需要，並且在比賽前清楚公布，參加者可以被要求要符合以下一個或多個條件：
+- Y3) 除了[規則 2a](regulations:regulation:2a)所要求以外,如果WCA代表覺得有需要，並且在比賽前清楚公布，參加者可以被要求要符合以下一個或多個條件：
     - Y3a) 在比賽場館內配戴口罩。
     - Y3b) 比賽前14天內沒有和新冠肺炎（COVID-19）患者有接觸。
     - Y3c) 比賽前14天內沒有患上新冠肺炎（COVID-19），或是出現新冠肺炎（COVID-19）症狀（由[WHO世界衛生組織](https://www.who.int/)所定義）。
@@ -533,7 +533,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - Y6) 環境：
     - Y6a) 如果WCA代表認為有需要，比賽區域禁止有參賽者預備區。
     - Y6b) 當參賽者不是在正式還原時，參賽者應該盡量避免碰觸還原區域的桌面。
-- Y7) 取代 [附則 A](regulations:article:A)、[附則 B](regulations:article:B)、[附則 H](regulations:article:H)的比賽程序在底下描述。 這些程序不適用 [附則 E](regulations:article:E)最少步數解。
+- Y7) 取代 [附則 A](regulations:article:A)、[附則 B](regulations:article:B)、[附則 H](regulations:article:H)的比賽程序在底下描述。這些程序不適用 [附則 E](regulations:article:E)最少步數解。
     - Y7a) 比賽應該使用固定座位（參見[附則 Y2b](regulations:regulation:Y2b)）。
     - Y7b) 裁判應該無時無刻避免碰觸方塊。例外：對於Clock魔錶，裁判應該要拿起來確認兩面都已經解完。
     - Y7c) 轉亂：
