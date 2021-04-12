@@ -534,7 +534,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - Y6a) 如果WCA代表認為有需要，比賽區域禁止有參賽者預備區。
     - Y6b) 當參賽者不是在正式還原時，參賽者應該盡量避免碰觸還原區域的桌面。
 - Y7) 取代 [附則 A](regulations:article:A)、[附則 B](regulations:article:B)、[附則 H](regulations:article:H)的比賽程序在底下描述。這些程序不適用 [附則 E](regulations:article:E)最少步數解。
-    - Y7a) 比賽應該使用固定座位（參見[附則 Y2b](regulations:regulation:Y2b)）。
+    - Y7a) 比賽應該使用固定座位。（參見[附則 Y2b](regulations:regulation:Y2b)）
     - Y7b) 裁判應該無時無刻避免碰觸方塊。例外：對於Clock魔錶，裁判應該要拿起來確認兩面都已經解完。
     - Y7c) 轉亂：
         - Y7c1) 當在該輪被叫到名字時，參賽者將解好的方塊消毒後交給轉亂員。接著參賽者在指定的還原區域等待。
