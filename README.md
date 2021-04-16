@@ -31,7 +31,7 @@ Ver. 2020-08-01 [[GitHub 原始碼]](https://github.com/thewca/wca-regulations-t
 |Score Taker|成績紀錄員|-|
 |Competitor|參賽者|-|
 |Attendee|參加者|包含參賽者，工作人員，以及陪同者，所有在比賽會場的人員|
-|Competitors Area|參賽者預備區|在參賽者被唱名前等待的指定區域|
+|Competitor Waiting Area|參賽者預備區|在參賽者被唱名前等待的指定區域|
 |Competition Area|比賽區域|包含參賽者預備區、還原區域的場地|
 |Stackmat|Stackmat|-|
 |Solving Station|還原區域|擺放著Stackmat並且讓參賽者進行還原的區域|
