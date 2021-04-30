@@ -20,9 +20,9 @@ WCA競賽規則另有[WCA指導方針](guidelines:top)來做補充。競賽規�
 關於「必須」（MUST）、「禁止」（MUST NOT）、「應該」（SHOULD）、「不應該」（SHOULD NOT）和「可以」（MAY）的用法可參考[RFC 2119](https://www.ietf.org/rfc/rfc2119.txt).
 
 ### 連結資訊
-世界方塊協會的網頁: [www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
-WCA規則原文: [www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
-WCA競賽規則: [PDF版](link:pdf)
+世界方塊協會的網頁：[www.worldcubeassociation.org](http://www.worldcubeassociation.org/)
+WCA規則原文：[www.worldcubeassociation.org/regulations](http://www.worldcubeassociation.org/regulations/)
+WCA競賽規則：[PDF版](link:pdf)
 
 ### 原始碼
 WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-regulations-translations/tree/master/chinese-traditional)上。
@@ -281,11 +281,11 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
     - 10e2) 如果不需要完整的一步轉動，就能使方塊變成完成狀態，則方塊判定完成且不用處罰。
     - 10e3) 如果需要再轉動一步才能完成，則方塊判定完成外加兩秒的處罰（+2秒）。
     - 10e4) 如果需要超過一步才能完成，則判定該次還原未完成，即DNF。
-- 10f) 各方塊未對齊的限度:
+- 10f) 各方塊未對齊的限度：
     - 10f1) 立方體方塊：最多45度。
     - 10f2) 十二面體Megaminx：最多36度。
     - 10f3) 金字塔Pyraminx和斜轉方塊Skewb：最多60度。
-    - 10f4) Square-1:最大45度(U/D)或90度(/)。
+    - 10f4) Square-1：最大45度(U/D)或90度(/)。
 - 10h) 其他未提及的方塊的完成定義，以一般大眾認同的為完成狀態，並運用本規則判定。
     - 10h1) 魔錶Clock的還原狀態是指所有指針（18個）都朝向12點鐘。
 
@@ -527,7 +527,7 @@ WCA競賽規則與指導方針公開在[GitHub](https://github.com/thewca/wca-re
 - H2) 參賽者可以自行準備覆蓋物（例如：墊子或布）鋪在桌面上，由WCA代表決定。如果參賽者使用覆蓋物，必須要在提交還原盲解方塊的顆數時一併提出。（參見[附則 H1a](regulations:regulation:H1a)）
 
 
-## <article-Y><temporary-regulations><temporaryregulations> 附則 Y:臨時規則
+## <article-Y><temporary-regulations><temporaryregulations> 附則 Y：臨時規則
 
 - Y1) 額外且取代其他規則的部分描述在以下內容。這些規則是用來補充[比賽安全政策](https://www.worldcubeassociation.org/documents/policies/external/Competition%20Safety.pdf)。
 - Y2) 定義：
